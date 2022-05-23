@@ -9,38 +9,38 @@ Strings consists of lowercase English letters only and the length of both string
 ## Example 1:
 
 ## Input:
-Enter first string S: creative
+* Enter first string S: creative
 
-Enter first string P: reactive
+* Enter first string P: reactive
 ## Output:
-Strings are Anagram
+* Strings are Anagram
 
-Explanation:
-*Length of String S is equal to Length of String P  
+### Explanation:
+* Length of String S is equal to Length of String P  
 
- *"creative" is rearranged and found "reactive" 
+ * "creative" is rearranged and found "reactive" 
 
 ## Example 2:
 
 ## Input:
-Enter first string S: angel
+* Enter first string S: angel
 
-Enter first string P: glean
+* Enter first string P: glean
 ## Output:
-Strings are Anagram
+* Strings are Anagram
 
 Explanation:
-Length of String S is equal to Length of String P  
- "angel" is rearranged and found "glean"
+* Length of String S is equal to Length of String P  
+ * "angel" is rearranged and found "glean"
  
 ## Example 3:
 
 ## Input:
-Enter first string S: car
+* Enter first string S: car
 
-Enter first string P: cat
+* Enter first string P: cat
 ## Output:
-Strings are not Anagram
+* Strings are not Anagram
 
 Explanation:
 * Length of String S is equal to Length of String P  
@@ -58,9 +58,9 @@ Strings consists of lowercase English letters only and the length of both string
 ## Example 1:
 
 ## Input:
-Enter a string S: abb
+* Enter a string S: abb
 ## Output:
-All palindrome strings from permutations of the string are:
+* All palindrome strings from permutations of the string are:
 bab
 
 Explanation:
@@ -70,10 +70,12 @@ Explanation:
 ## Example 2:
 
 ## Input:
-Enter a string S: seels 
+* Enter a string S: seels 
 ## Output:
-All palindrome strings from permutations of the string are:
+* All palindrome strings from permutations of the string are:
+
 seles
+
 eslse
 
 Explanation:
