@@ -51,7 +51,29 @@ palendrome : Reverse of a string equal to its original string.
 
 Strings consists of lowercase English letters only and the length of both strings S and P will not be larger than 20,100.
 
+# Example 1:
 
+## Input:
+Enter a string S: abb
+## Output:
+All palindrome strings from permutations of the string are:
+bab
 
+Explanation:
+List of permutation from given string found is ["abb","bba","bab"]
+palindrome strings from permutations "bab"
 
-## Find the solution in file "A1"
+# Example 2:
+
+## Input:
+Enter a string S: seels 
+## Output:
+All palindrome strings from permutations of the string are:
+seles
+eslse
+
+Explanation:
+List of permutation from given string found is ["seels","seesl","seles","selse","sesle", ... ,"eessl","eslse"]
+palindrome strings from permutations "seles" and "eslse"
+
+## Find the solution in file "A2"
