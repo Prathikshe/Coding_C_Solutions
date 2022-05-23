@@ -10,18 +10,21 @@ Strings consists of lowercase English letters only and the length of both string
 
 ## Input:
 Enter first string S: creative
+
 Enter first string P: reactive
 ## Output:
 Strings are Anagram
 
 Explanation:
-Length of String S is equal to Length of String P  
- "creative" is rearranged and found "reactive" 
+*Length of String S is equal to Length of String P  
+
+ *"creative" is rearranged and found "reactive" 
 
 ## Example 2:
 
 ## Input:
 Enter first string S: angel
+
 Enter first string P: glean
 ## Output:
 Strings are Anagram
@@ -34,13 +37,14 @@ Length of String S is equal to Length of String P
 
 ## Input:
 Enter first string S: car
+
 Enter first string P: cat
 ## Output:
 Strings are not Anagram
 
 Explanation:
-Length of String S is equal to Length of String P  
- "car" is rearranged and "cat" is not found 
+* Length of String S is equal to Length of String P  
+ * "car" is rearranged and "cat" is not found 
 
 ## Find the solution in file "A1"
 
@@ -60,8 +64,8 @@ All palindrome strings from permutations of the string are:
 bab
 
 Explanation:
-List of permutation from given string found is ["abb","bba","bab"]
-palindrome strings from permutations "bab"
+* List of permutation from given string found is ["abb","bba","bab"]
+* palindrome strings from permutations "bab"
 
 ## Example 2:
 
@@ -73,7 +77,7 @@ seles
 eslse
 
 Explanation:
-List of permutation from given string found is ["seels","seesl","seles","selse","sesle", ... ,"eessl","eslse"]
-palindrome strings from permutations "seles" and "eslse"
+* List of permutation from given string found is ["seels","seesl","seles","selse","sesle", ... ,"eessl","eslse"]
+* palindrome strings from permutations "seles" and "eslse"
 
 ## Find the solution in file "A2"
