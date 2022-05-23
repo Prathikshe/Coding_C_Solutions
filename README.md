@@ -29,7 +29,7 @@ Strings consists of lowercase English letters only and the length of both string
 ## Output:
 * Strings are Anagram
 
-Explanation:
+### Explanation:
 * Length of String S is equal to Length of String P  
  * "angel" is rearranged and found "glean"
  
@@ -42,7 +42,7 @@ Explanation:
 ## Output:
 * Strings are not Anagram
 
-Explanation:
+### Explanation:
 * Length of String S is equal to Length of String P  
  * "car" is rearranged and "cat" is not found 
 
@@ -61,9 +61,10 @@ Strings consists of lowercase English letters only and the length of both string
 * Enter a string S: abb
 ## Output:
 * All palindrome strings from permutations of the string are:
-bab
 
-Explanation:
+      bab
+
+### Explanation:
 * List of permutation from given string found is ["abb","bba","bab"]
 * palindrome strings from permutations "bab"
 
@@ -74,11 +75,11 @@ Explanation:
 ## Output:
 * All palindrome strings from permutations of the string are:
 
-seles
+     seles
 
-eslse
+     eslse
 
-Explanation:
+### Explanation:
 * List of permutation from given string found is ["seels","seesl","seles","selse","sesle", ... ,"eessl","eslse"]
 * palindrome strings from permutations "seles" and "eslse"
 
