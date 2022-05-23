@@ -1,5 +1,5 @@
 # Coding_C_Solutions
-## Check Anagram or Not
+## [1]Check Anagram or Not
 Given a string S and a non-empty string P, find string S is Anagram of P.
 Check if the string S can be equal to P when charectors in P are rearranged
 
@@ -41,5 +41,17 @@ Strings are not Anagram
 Explanation:
 Length of String S is equal to Length of String P  
  "car" is rearranged and "cat" is not found 
+
+## Find the solution in file "A1"
+
+## [2] Palindromes in Anagram
+Given a string S list the palindromes generated when string S is rearranged.
+Re-arrange the string with all permutation and print strings which are palendrome.
+palendrome : Reverse of a string equal to its original string.
+
+Strings consists of lowercase English letters only and the length of both strings S and P will not be larger than 20,100.
+
+
+
 
 ## Find the solution in file "A1"
